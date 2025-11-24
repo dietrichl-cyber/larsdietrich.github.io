@@ -11,6 +11,7 @@ title: "Home"
   I am a researcher in botany and science education. My work focuses on treeline research as well as ecological education, plant awareness and perception, and the use of AI-supported learning environments in higher education teaching.
 </div>
 
+
 ## Research interests
 
 - Molecular reasons for the global treeline phenomenon  
@@ -21,11 +22,13 @@ title: "Home"
 ## Textbook
 
 <div style="overflow: auto;">
-  <img src="/book.jpeg" alt="Chemie im Biologiestudium" width="200" style="border-radius: 12px; margin: 0 0 1rem 1rem; float: right;">
-
-  **Schmidt C, Dietrich L (2022).** *Chemie im Biologiestudium: Von Grund auf verständlich erklärt.* Second Edition. Springer Spektrum.  
-  Link: [https://link.springer.com/book/10.1007/978-3-662-63416-5](https://link.springer.com/book/10.1007/978-3-662-63416-5)
+  <img src="/book.jpeg" … >
 </div>
+
+**Schmidt C, Dietrich L (2022).** *Chemie im Biologiestudium…*  
+Link: <a href="https://link.springer.com/book/10.1007/978-3-662-63416-5">https://link.springer.com/book/10.1007/978-3-662-63416-5</a>
+
+
 
 ## Contact
 
