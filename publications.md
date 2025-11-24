@@ -29,7 +29,7 @@ title: "Publications"
 - **Schärer ML, Dietrich L, Kundel D, Mäder P, Kahmen A (2022).** Reduced plant water use can explain higher soil moisture in organic compared to conventional farming systems. *Agriculture, Ecosystems & Environment*, 332, 107915.  
   DOI: [10.1016/j.agee.2022.107915](https://doi.org/10.1016/j.agee.2022.107915)
 
-- **Kahmen A, Buser T, Hoch G, Grün G, Dietrich L (2021).** Dynamic ²H irrigation pulse-labelling reveals rapid infiltration and mixing of precipitation in the soil and species-specific water uptake depths of trees in a temperate forest. *Ecohydrology*, 14, e2322.  
+- **Kahmen A, Buser T, Hoch G, Grun G, Dietrich L (2021).** Dynamic ²H irrigation pulse-labelling reveals rapid infiltration and mixing of precipitation in the soil and species-specific water uptake depths of trees in a temperate forest. *Ecohydrology*, 14, e2322.  
   DOI: [10.1002/eco.2322](https://doi.org/10.1002/eco.2322)
 
 - **Salmon Y, Dietrich L, Sevanto SA, Holttä T, Damasoura M, Epron D (2019).** Drought impacts on phloem in trees: From cell-level responses to ecological significance. *Tree Physiology*, 39, 171–191.  
