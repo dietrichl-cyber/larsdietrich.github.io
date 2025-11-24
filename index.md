@@ -13,7 +13,7 @@ title: "Home"
 
     /* Standard = Handy */
     flex-direction: column-reverse;
-    margin-bottom: 0.6rem; /* moderater Abstand zum nächsten Block */
+    margin: 0; /* Eigener Block bekommt erstmal KEIN margin-bottom */
   }
 
   .content-text {
@@ -31,26 +31,47 @@ title: "Home"
     height: auto;
   }
 
-  /* Überschriften im Inhalt etwas enger setzen (überschreibt evtl. section h2 aus style.css) */
-  section h2 {
-    margin-top: 1.5rem;
-    margin-bottom: 0.4rem;
+  /* Weniger Abstand NACH den Bild-Text-Blöcken zur nächsten h2 */
+  section .content-block + h2 {
+    margin-top: 0.8rem !important;
   }
 
-  /* Handy: Bild über Text, weniger Abstand unter Bild als im Layout (override mit !important) */
+  /* Generell: h2 im Inhalt enger setzen */
+  section h2 {
+    margin-top: 1.2rem !important;
+    margin-bottom: 0.4rem !important;
+  }
+
+  /* Abstände der Texte/Listen verkleinern */
+  section p {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+
+  section ul {
+    margin-top: 0;
+    margin-bottom: 0.6rem;
+  }
+
+  /* In den Content-Blöcken: letzter Absatz nicht noch extra Abstand nach unten */
+  .content-block .content-text p:last-child {
+    margin-bottom: 0.2rem !important;
+  }
+
+  /* Handy: Bild über Text, geringer Abstand unter dem Bild (Layout-Override mit !important) */
   @media (max-width: 700px) {
     section .content-image img {
-      margin: 0 auto 0.4rem auto !important; /* statt 1rem aus Layout */
-      max-width: 70%; /* wenn du sie schmaler zentriert magst; sonst 100% */
+      margin: 0 auto 0.4rem auto !important; /* statt 1rem aus deinem Layout */
       display: block;
+      max-width: 70%; /* gern ändern auf 100%, wenn du magst */
     }
   }
 
-  /* Ab Tablet/Desktop: Bild rechts neben Text */
+  /* Ab Tablet/Desktop: Bild rechts neben Text, moderater Block-Abstand */
   @media (min-width: 701px) {
     .content-block {
       flex-direction: row;      /* Text links, Bild rechts */
-      margin-bottom: 1.2rem;    /* etwas mehr Luft auf Desktop */
+      margin-bottom: 0.8rem;    /* etwas Luft zwischen Block und nächstem Inhalt */
     }
   }
 </style>
