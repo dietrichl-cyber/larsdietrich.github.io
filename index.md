@@ -26,5 +26,5 @@ I am involved in the biology education programmes at Justus Liebig University Gi
 
 ## Contact
 
-Email: your.email@uni-giessen.de  
+Email: lars.dietrich@uni-giessen.de  
 Institution: Justus Liebig University Gießen  
