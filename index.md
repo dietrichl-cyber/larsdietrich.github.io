@@ -6,15 +6,14 @@ title: "Home"
 # Welcome
 
 <div style="display: flex; gap: 1rem; align-items: flex-start; flex-wrap: wrap; margin-bottom: 1.5rem;">
-
-  <div style="flex: 0 0 auto;">
+  
+  <div style="flex: 1 1 250px; min-width: 250px;">
+    <div style="flex: 0 0 auto;">
     <img src="/IMG_1922.HEIC"
          alt="Lars Dietrich"
          width="200"
          style="border-radius: 12px; max-width: 100%; height: auto;">
   </div>
-  
-  <div style="flex: 1 1 250px; min-width: 250px;">
     <p>
       I am a researcher in botany and science education. My work focuses on treeline research
       as well as ecological education, plant awareness and perception, and the use of
