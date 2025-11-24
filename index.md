@@ -2,6 +2,7 @@
 layout: default
 title: "Home"
 ---
+<img src="/IMG_1922.HEIC" alt="Lars Dietrich" width="200" style="border-radius: 8px;">
 
 # Lars Dietrich
 
