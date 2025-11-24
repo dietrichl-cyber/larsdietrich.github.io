@@ -19,7 +19,7 @@ title: "Home"
   </p>
 </div>
 
-<h2 style="margin-top: 1rem; margin-bottom: 0.4rem;">Research interests</h2>
+<h2 style="margin-top: 1rem; margin-bottom: 0.4rem; clear: both;">Research interests</h2>
 
 <ul>
   <li>Molecular reasons for the global treeline phenomenon</li>
@@ -28,7 +28,7 @@ title: "Home"
   <li>AI-supported learning environments (e.g., chatbots as learning companions)</li>
 </ul>
 
-<h2 style="margin-top: 1rem; margin-bottom: 0.4rem;">Textbook</h2>
+<h2 style="margin-top: 1rem; margin-bottom: 0.4rem; clear: both;">Textbook</h2>
 
 <div>
   <img
@@ -39,7 +39,8 @@ title: "Home"
   >
   <p>
     <strong>Schmidt C, Dietrich L (2022).</strong>
-    <em>Chemie im Biologiestudium: Von Grund auf verständlich erklärt.</em> Second Edition. Springer Spektrum.
+    <em>Chemie im Biologiestudium: Von Grund auf verständlich erklärt.</em><br>
+    Second Edition. Springer Spektrum.
   </p>
 
   <p>
@@ -50,7 +51,7 @@ title: "Home"
   </p>
 </div>
 
-<h2 style="margin-top: 1rem; margin-bottom: 0.4rem;">Contact</h2>
+<h2 style="margin-top: 1rem; margin-bottom: 0.4rem; clear: both;">Contact</h2>
 
 <p>Email: lars.dietrich@uni-giessen.de</p>
 <p>Institution: Justus Liebig University Gießen</p>
