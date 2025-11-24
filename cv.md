@@ -7,9 +7,10 @@ title: "CV"
 
 ## Current Position
 **Academic Council (Akademischer Rat)**  
-Institute for Biology Education,  
+Institute for Biology Education
+Department of Biology and Chemistry
 Justus-Liebig-University Giessen  
-(2024–present)
+(04/2025–present)
 
 ## Research Focus
 - Ecological literacy and scientific literacy  
