@@ -8,20 +8,33 @@
 
     <style>
       /* Allgemeine Feinjustierung */
+      * {
+        box-sizing: border-box;
+      }
+
       body {
         margin: 0;
         padding: 0;
       }
 
       .wrapper {
-        max-width: 1200px; /* moderate Gesamtbreite */
+        max-width: 1200px;
         margin: 0 auto;
         padding: 2rem;
+        display: flex;
+        gap: 2rem;
+        align-items: flex-start;
+      }
+
+      /* Sidebar (links) */
+      header {
+        flex: 0 0 220px; /* feste Breite der linken Spalte */
       }
 
       header nav ul {
         list-style: none;
         padding-left: 0;
+        margin: 0;
       }
 
       header nav ul li {
@@ -45,40 +58,33 @@
         font-weight: bold;
       }
 
+      /* Inhaltsbereich (rechts) */
+      section {
+        flex: 1;
+        min-width: 0; /* verhindert horizontales Überlaufen */
+        word-wrap: break-word;
+        overflow-wrap: anywhere; /* lange DOIs/Links umbrechen */
+      }
+
       section img {
         max-width: 100%;
         height: auto;
-      }
-
-      /* Desktop-Layout: Sidebar links, Inhalt rechts – Inhalt breiter */
-      @media (min-width: 700px) {
-        header {
-          float: left;
-          width: 25%;   /* linke Spalte (Navigation) */
-        }
-
-        section {
-          float: right;
-          width: 70%;   /* rechte Spalte (Inhalt) – deutlich breiter */
-        }
       }
 
       /* Smartphone-Ansicht */
       @media (max-width: 700px) {
         .wrapper {
           padding: 1rem;
+          flex-direction: column;  /* untereinander statt nebeneinander */
         }
 
         header {
-          margin-bottom: 1rem;
-          float: none;
           width: 100%;
         }
 
         section {
-          font-size: 0.95rem;
-          float: none;
           width: 100%;
+          font-size: 0.95rem;
         }
 
         /* Tap Targets auf dem Handy etwas größer */
@@ -151,10 +157,6 @@
       <section>
         {{ content }}
       </section>
-    </div>
-  </body>
-</html>
-
     </div>
   </body>
 </html>
