@@ -15,6 +15,12 @@ I am a researcher in botany and science education. My research focuses on treeli
 - Biology and chemistry education in higher education
 - AI-supported learning environments (e.g., chatbots as learning companions)
 
+- ## Navigation
+
+- [Publications](/publications)
+- [Teaching](/teaching) *(soon)*
+- [CV](/cv) *(soon)*
+
 ## Selected publications
 
 - Dietrich, L., et al. (2025). *Investigating plant awareness: Image composition affects student perceptions of plants and animals in landscapes.* Plants, People, Planet.
