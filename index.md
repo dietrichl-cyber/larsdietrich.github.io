@@ -9,9 +9,10 @@ title: "Home"
     gap: 1rem;
     align-items: flex-start;
     flex-wrap: wrap;
-    margin-bottom: 1.5rem;
-    /* Standard: Mobilansicht */
-    flex-direction: column-reverse; /* Bild über Text */
+
+    /* Standard = Mobilansicht */
+    flex-direction: column-reverse;
+    margin-bottom: 0.8rem; /* kleiner Abstand für Handy */
   }
 
   .content-text {
@@ -29,10 +30,11 @@ title: "Home"
     height: auto;
   }
 
-  /* Ab Tablet/Desktop: Bild rechts neben Text */
+  /* Ab Tablet/Desktop */
   @media (min-width: 768px) {
     .content-block {
       flex-direction: row; /* Text links, Bild rechts */
+      margin-bottom: 1.5rem; /* größerer Abstand */
     }
   }
 </style>
@@ -90,4 +92,4 @@ title: "Home"
 ## Contact
 
 Email: lars.dietrich@uni-giessen.de  
-Institution: Justus Liebig University Gießen  
+Institution: Justus Liebig University Gießen
