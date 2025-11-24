@@ -18,8 +18,8 @@ I am a researcher in botany and science education. My research focuses on treeli
 - ## Navigation
 
 - [Publications](/publications)
-- [Teaching](/teaching) *(soon)*
-- [CV](/cv) *(soon)*
+- [Teaching](/teaching)
+- [CV](/cv)
 
 ## Selected publications
 
