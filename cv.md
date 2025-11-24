@@ -21,14 +21,13 @@ Justus-Liebig-University Giessen
 
 ## Education
 **PhD in Botany**  
-University of Basel 
-(2014 – 2017)
+University of Basel, Switzerland  (2014 – 2017)
 
 **M.Sc. in Ecology**  
-(University of Basel, 2013 – 2014)
+University of Basel, Switzerland (2013 – 2014)
 
 **B.Sc. in Biology and Chemistry**  
-(University of Muenster, 2009 - 2013)
+University of Muenster, Germany (2009 - 2013)
 
 ## Academic Appointments
 ...
