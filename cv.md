@@ -2,6 +2,7 @@
 layout: default
 title: "CV"
 ---
+(page under construction)
 
 # Curriculum Vitae
 
@@ -13,24 +14,24 @@ Justus-Liebig-University Giessen
 (04/2025–present)
 
 ## Research Focus
+- Molecular reasons for the global treeline phenomenon
 - Ecological literacy and scientific literacy  
 - Plant awareness and plant perception  
-- Biology and chemistry education in higher education  
 - AI-supported learning environments  
 
 ## Education
-**PhD in Biology Education**  
-Justus-Liebig-University Giessen  
-(Year – Year)
+**PhD in Botany**  
+University of Basel 
+(2014 – 2017)
 
-**M.Sc. in Biology**  
-(University, Year – Year)
+**M.Sc. in Ecology**  
+(University of Basel, 2013 – 2014)
 
-**B.Sc. in Biology**  
-(University, Year – Year)
+**B.Sc. in Biology and Chemistry**  
+(University of Muenster, 2009 - 2013)
 
 ## Academic Appointments
-- Research associate, Biology Education, JLU Giessen (Year–Year)
+...
 
 ## Teaching Experience
 - Biology education courses at JLU Giessen  
@@ -40,11 +41,10 @@ Justus-Liebig-University Giessen
 ## Publications (Selection)
 *(See full list on the Publications page)*
 
-- Dietrich, L., et al. (2025). *Investigating plant awareness: Image composition affects student perceptions of plants.* Plants, People, Planet.
+- Dietrich, L., et al. (2025). Investigating plant awareness: Image composition affects student perception of flora and fauna. *Plants, People, Planet*.
 
 ## Talks & Conference Contributions
-- ERIDOB 2026 (Ljubljana) – ecological literacy  
-- ERIDOB 2026 – plant awareness & eye-tracking  
+... 
 
 ## Contact
 Email: your.email@uni-giessen.de  
