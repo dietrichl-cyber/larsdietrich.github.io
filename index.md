@@ -18,7 +18,7 @@ I am a researcher in botany and science education. My work fosuses on treeline r
 
 ## Selected publications
 
-- Dietrich, L., et al. (2025). *Investigating plant awareness: Image composition affects student perceptions of flora and fauna.* Plants, People, Planet. https://doi.org/10.1002/ppp3.70104
+- Dietrich, L., et al. (2025). Investigating plant awareness: Image composition affects student perceptions of flora and fauna. *Plants, People, Planet*. https://doi.org/10.1002/ppp3.70104
 
 ## Teaching
 
