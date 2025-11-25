@@ -50,5 +50,5 @@ University of Muenster, Germany (2009 - 2013)
 ... 
 
 ## Contact
-Email: your.email@uni-giessen.de  
+Email: lars.dietrich@uni-giessen.de  
 Institution: Justus-Liebig-University Giessen  
