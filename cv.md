@@ -10,7 +10,7 @@ title: "CV"
 **Postdoctoral Researcher (Akademischer Rat)**  
 Institute for Biology Education<br>
 Department of Biology and Chemistry<br>
-Justus Liebig University Giessen  
+Justus Liebig University Giessen (Germany)<br> 
 (04/2025–present)
 
 ## Research Focus
@@ -21,7 +21,7 @@ Justus Liebig University Giessen
 
 ## Education
 
-**High School Teacher**<br>
+**High School Teacher for Biology & Chemistry**<br>
 Federal Teacher Education Program, Germany (2019-2020)
 
 **PhD in Botany**  
@@ -30,7 +30,7 @@ University of Basel, Switzerland  (2014 – 2017)
 **M.Sc. in Ecology**  
 University of Basel, Switzerland (2013 – 2014)
 
-**B.Sc. in Biology and Chemistry**  
+**B.Sc. in Biology & Chemistry**  
 University of Muenster, Germany (2009 - 2013)
 
 ## Academic Appointments
