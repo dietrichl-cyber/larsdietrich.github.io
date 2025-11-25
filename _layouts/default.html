@@ -113,6 +113,12 @@
               </a>
             </li>
             <li>
+              <a href="{{ '/news' | relative_url }}"
+                 class="{% if page.url == '/' %}active{% endif %}">
+                News
+              </a>
+            </li>
+            <li>
               <a href="{{ '/publications' | relative_url }}"
                  class="{% if page.url contains '/publications' %}active{% endif %}">
                 Publications
