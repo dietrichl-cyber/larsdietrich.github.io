@@ -10,7 +10,7 @@ title: "Publications"
 
 - **Dietrich L, Dittert J, Biestek L, Konnemann C, Asshoff R (2025).** Investigating plant awareness: Image composition affects student perceptions of flora and fauna. *Plants People Planet*. DOI: [10.1002/ppp3.70104](https://doi.org/10.1002/ppp3.70104)
 
-- **Dietrich L, Asshoff A (2025).** Ecosystems have no thermostat: Regulation misleads in ecology education and outreach. *BioScience*, biaf127. DOI: [10.1093/biosci/biaf127](https://doi.org/10.1093/biosci/biaf127)
+- **Dietrich L, Asshoff R (2025).** Ecosystems have no thermostat: Regulation misleads in ecology education and outreach. *BioScience*, biaf127. DOI: [10.1093/biosci/biaf127](https://doi.org/10.1093/biosci/biaf127)
 
 - **Dietrich L, Syrovy C, Döring TF, Jung R, Siebert S, Neuhoff D (2025).** Irrigation but not fertilization increases yields and N₂ fixation in organic faba bean in temperate climates. *Agricultural Water Management*, 314, 109498. DOI: [10.1016/j.agwat.2025.109498](https://doi.org/10.1016/j.agwat.2025.109498)
 
