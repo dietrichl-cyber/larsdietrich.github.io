@@ -36,6 +36,9 @@ title: "Home"
     style="float: right; margin: 0 0 0.4rem 1rem !important; border-radius: 12px; max-width: 100%; height: auto;"
   >
   <p>
+    Together with my colleague and friend Christian Schmidt, I co-authored a textbook Chemistry for Biologists, first published in November 2014 and now available in its second edition.
+The book introduces chemistry from the ground up, helping biology students in their early semesters build a solid and intuitive understanding of chemical principles and processes relevant to life sciences.
+Our goal was to create an accessible, step-by-step guide that makes chemistry clear and engaging for everyone entering the field of biology.
     <strong>Schmidt C, Dietrich L (2022).</strong>
     <em>Chemie im Biologiestudium: Von Grund auf verständlich erklärt.</em>
     Second Edition. Springer Spektrum.
