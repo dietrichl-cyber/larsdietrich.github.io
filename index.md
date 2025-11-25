@@ -26,7 +26,7 @@ title: "Home"
   <li>Plant physiology behind the global treeline phenomenon</li>
 </ul>
 
-<h2 style="margin-top: 1rem; margin-bottom: 0.4rem; clear: both;">Textbook</h2>
+<h2 style="margin-top: 1rem; margin-bottom: 0.4rem; clear: both;">Textbook</h2><br>
 
 <div>
   <img
