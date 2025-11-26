@@ -37,7 +37,7 @@ Justus Liebig University Giessen (Germany)<br>
 
 **Postdoctoral Researcher (on part-time basis, 4 h/w)**  
 Institute for Crop Science and Resource Conservation<br>
-Department of Biology and Chemistry<br>
+Faculty of Agricultural, Nutritional, and Engineering Sciences<br>
 University of Bonn (Germany)<br> 
 (08/2023–08/2025)
 
