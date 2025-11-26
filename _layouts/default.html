@@ -61,6 +61,17 @@
         height: auto;
       }
 
+      /* --- NEW: mobile menu toggle button (hidden by default) --- */
+      .nav-toggle {
+        display: none;
+        border: 1px solid #ccc;
+        background: #fff;
+        padding: 0.3rem 0.6rem;
+        border-radius: 4px;
+        font-size: 0.9rem;
+        cursor: pointer;
+      }
+
       /* Smartphone-Ansicht */
       @media (max-width: 700px) {
         .wrapper {
@@ -91,6 +102,22 @@
           margin: 0 auto 1rem auto !important;
           max-width: 70%;
         }
+
+        /* --- NEW: show the Menu button on mobile --- */
+        .nav-toggle {
+          display: inline-block;
+          margin-bottom: 0.5rem;
+        }
+
+        /* --- NEW: hide nav by default on mobile, show when .open class is set --- */
+        header nav {
+          display: none;
+          margin-top: 0.5rem;
+        }
+
+        header nav.open {
+          display: block;
+        }
       }
     </style>
   </head>
@@ -104,7 +131,13 @@
         <p>{{ site.description }}</p>
         {% endif %}
 
-        <nav>
+        <!-- NEW: mobile menu button -->
+        <button class="nav-toggle" id="nav-toggle"
+                aria-expanded="false" aria-controls="main-nav">
+          ☰ Menu
+        </button>
+
+        <nav id="main-nav">
           <ul>
             <li>
               <a href="{{ '/' | relative_url }}"
@@ -113,11 +146,11 @@
               </a>
             </li>
             <li>
-            <a href="{{ '/news' | relative_url }}"
-               class="{% if page.url contains '/news' %}active{% endif %}">
-              News
-            </a>
-          </li>
+              <a href="{{ '/news' | relative_url }}"
+                 class="{% if page.url contains '/news' %}active{% endif %}">
+                News
+              </a>
+            </li>
             <li>
               <a href="{{ '/publications' | relative_url }}"
                  class="{% if page.url contains '/publications' %}active{% endif %}">
@@ -156,5 +189,19 @@
         {{ content }}
       </section>
     </div>
+
+    <!-- NEW: tiny JS to toggle the mobile menu -->
+    <script>
+      (function () {
+        var btn = document.getElementById('nav-toggle');
+        var nav = document.getElementById('main-nav');
+        if (!btn || !nav) return;
+
+        btn.addEventListener('click', function () {
+          var isOpen = nav.classList.toggle('open');
+          btn.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+        });
+      })();
+    </script>
   </body>
 </html>
