@@ -70,12 +70,18 @@ University of Basel (Switzerland)<br>
 (04/2014–10/2017)
 
 ## Teaching Experience
-- Biology education courses at JLU Giessen  
-- Supervision of Bachelor and Master theses  
-- Courses in: biology education, ecology, didactics, digital teaching  
+- One Health Teaching Clinic (JLU Giessen)
+- Scientific practivce and Research Methods in Biology Education (JLU Giessen)
+- Media in Biology Teaching (JLU Giessen)
+- Lectures on "Learner's Conceptions in Biology" and "Diversity, Differentiation, and Language in Biology Education"
+- Alpine Plant Ecology (ALPFOR Research Station, Switzerland)
+- Supervision of Bachelor and Master theses (JLU Giessen, Universiy of Basel) 
+- Plant Microscopic Anatomy (University of Basel, University of Muenster)
+- Plant Biodiversity (University of Basel, University of Muenster)
+- Numerous High School classes in Biology and Chemistry
 
 ## Talks & Conference Contributions
-... 
+... yet to be compiled ...
 
 ## Contact
 Email: lars.dietrich@uni-giessen.de  
