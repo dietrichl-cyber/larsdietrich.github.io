@@ -45,6 +45,15 @@ title: "Publications"
 - **Schmidt C, Dietrich L (2022).** *Chemie im Biologiestudium: Von Grund auf verständlich erklärt.* Second Edition. Springer Spektrum. Link: [https://link.springer.com/book/10.1007/978-3-662-63416-5](https://link.springer.com/book/10.1007/978-3-662-63416-5)
 
 
+## Contributions to textbooks and teaching materials
+
+- **Dietrich L, Dankbar J, Asshoff R (2025).** Abitur und Klausur: Trophische Kaskade im Yellowstone Nationalpark. *Unterricht Biologie*, 505, 45–47.
+
+- **Westendorf-Bröring E (ed.) (2023).** *Biologie Heute SI 3 Niedersachsen.* Westermann Bildungsmedien Verlag GmbH: Braunschweig. (Contributor)
+
+- **Westendorf-Bröring E (ed.) (2021).** *Biologie Heute SI 2 Niedersachsen.* Westermann Bildungsmedien Verlag GmbH: Braunschweig. (Contributor)
+
+
 ## Conference contributions
 
 - ...
